@@ -1,0 +1,6 @@
+D:\NetProjectExample\Axceligent Solutions\ConstructionGame\ConstructionGame\bin\Debug\ConstructionGame.exe.config
+D:\NetProjectExample\Axceligent Solutions\ConstructionGame\ConstructionGame\bin\Debug\ConstructionGame.exe
+D:\NetProjectExample\Axceligent Solutions\ConstructionGame\ConstructionGame\bin\Debug\ConstructionGame.pdb
+D:\NetProjectExample\Axceligent Solutions\ConstructionGame\ConstructionGame\obj\Debug\ConstructionGame.csprojResolveAssemblyReference.cache
+D:\NetProjectExample\Axceligent Solutions\ConstructionGame\ConstructionGame\obj\Debug\ConstructionGame.exe
+D:\NetProjectExample\Axceligent Solutions\ConstructionGame\ConstructionGame\obj\Debug\ConstructionGame.pdb
